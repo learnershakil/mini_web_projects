@@ -68,5 +68,3 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 
 - Chart.js: https://www.chartjs.org/
 - FontAwesome: https://fontawesome.com/
-
-```
