@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <img src="/images/Preview1.jpg" alt="Portfolio Website Preview">
+    <img src="/Portfolio/images/Preview1.jpg" alt="Portfolio Website Preview">
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-    <img src="/images/Preview2.jpg" alt="Portfolio Website Preview">
+    <img src="/Portfolio/images/Preview2.jpg" alt="Portfolio Website Preview">
 </div>
 
 <br>
@@ -51,12 +51,6 @@ Check out the live demo of the portfolio website [here](http://learnershakil.rf.
 <br>
 
 If you found this repository helpful, a star ⭐️ would be greatly appreciated!
-
-<br>
-
-## 🔒 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 <br>
 
