@@ -47,7 +47,7 @@ We welcome contributions! If you have a mini web project you'd like to add or im
 
 Have questions, suggestions, or just want to say hi? Connect with me on:
 
-- 📧 Email: learnershakil@gmail.com
+- 📧 Email: dev.shakilahmad@gmail.com
 - 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/learnershakil/)
 - 📸 Instagram: [_mr.learner_](https://www.instagram.com/_mr.learner_/)
 - 🐙 GitHub: [learnershakil](https://github.com/learnershakil)
